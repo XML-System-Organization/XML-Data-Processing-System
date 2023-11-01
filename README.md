@@ -12,8 +12,8 @@
         <img src="https://cdn.discordapp.com/attachments/1169335695240867950/1169335968466227200/linkedin-removebg-preview.png" width="20" alt="LinkedIn">
     </a>
 </p>
-* <p font-size: 15px">Allison SAntos -
-    <a href="https://www.linkedin.com/in/santosallison/">
+* <p font-size: 15px">Allison Santos -
+    <a href="https://www.linkedin.com/in/santosallison">
         <img src="https://cdn.discordapp.com/attachments/1169335695240867950/1169335968466227200/linkedin-removebg-preview.png" width="20" alt="LinkedIn">
     </a>
 </p>
